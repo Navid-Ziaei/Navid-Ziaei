@@ -8,4 +8,4 @@
 
 | 📊 GitHub Stats | 🚀 Most Used Languages |
 |---|---|
-| ![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navid-ziaei&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navid-ziaei&layout=compact&theme=default) |
+| ![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navid-ziaei&show_icons=true&theme=default&hide_title=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navid-ziaei&layout=compact&theme=default&hide_title=true&hide_border=true) |
