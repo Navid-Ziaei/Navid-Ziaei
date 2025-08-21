@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Navid
 
 🔬 Deep Learning Researcher  
-🧠 Focused on Neural Signal Processing & Bayesian Time-Series Modeling  
+🧠 Focused on LLMs, Neural Signal Processing & Bayesian Modeling  
 🌐 [Website](https://navid-ziaei.github.io/) | [LinkedIn](https://www.linkedin.com/in/navid-ziaei/)
 
 ---
