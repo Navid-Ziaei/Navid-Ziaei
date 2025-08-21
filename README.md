@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Navid
 
-<!--
-**Navid-Ziaei/Navid-Ziaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Deep Learning Researcher  
+🧠 Focused on Neural Signal Processing & Bayesian Time-Series Modeling  
+🌐 [Website](https://navid-ziaei.github.io/) | [LinkedIn](https://www.linkedin.com/in/navid-ziaei/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navid-ziaei&show_icons=true&theme=default)
+
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navid-ziaei&layout=compact&theme=default)
